@@ -24,3 +24,4 @@ Outcome efficient(const vector<Point>& data) {
 Outcome extra(const vector<Point>& data) {
     return Outcome();
 }
+//i made changes
